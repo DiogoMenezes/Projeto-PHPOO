@@ -1,0 +1,23 @@
+.container{
+  max-width: 700px;
+  margin-top: 75px;
+}
+.material-icons{
+  float: right;
+  line-height: inherit;
+}
+.secondary-content{
+  background: transparent;
+  border: none !important;
+}
+nav{
+  background-color: #2bbbad;
+}
+.espacamento{
+  margin-bottom: 30px;
+}
+
+td,th {
+  text-align: center;
+}
+
